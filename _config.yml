@@ -13,23 +13,9 @@ paginate: 5
 # favicon: [Path to your site favicon image, if any]
 
 # Build settings
-markdown: kramdown
-permalink: pretty
-
-# Exclude Files
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - _site
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
+# markdown: kramdown
+# permalink: pretty
 
 # GitHub Pages deployment
-remote_theme: nikhil-1e9/my-blog
+# remote_theme: nikhil-1e9/my-blog
 
