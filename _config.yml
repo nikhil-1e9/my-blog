@@ -1,1 +1,35 @@
+# Site settings
+title: [AI Decoded]
+description: [Welcome to my blog. Here you will find tutorials and posts related to Machine Learning and Artificial Intelligence]
+baseurl: "" # If your site is not hosted on a subpath, leave it empty
+url: [https://nikhil-1e9.github.io/my-blog]
+
+# Build settings
 theme: minima
+paginate: 5
+
+# Customization
+# logo: [Path to your site logo image, if any]
+# favicon: [Path to your site favicon image, if any]
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude Files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _site
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+# GitHub Pages deployment
+remote_theme: [nikhil-1e9/my-blog]
+
