@@ -1,8 +1,8 @@
 # Site settings
 title: AI Decoded
 description: Welcome to my blog. Here you will find tutorials and posts related to Machine Learning and Artificial Intelligence
-baseurl: "/my-blog/" # If your site is not hosted on a subpath, leave it empty
-url: https://nikhil-1e9.github.io
+# baseurl: "/my-blog/" # If your site is not hosted on a subpath, leave it empty
+# url: https://nikhil-1e9.github.io
 
 # Build settings
 theme: minima
