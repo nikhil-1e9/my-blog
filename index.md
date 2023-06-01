@@ -13,6 +13,7 @@ date: "2023-06-01"
 [Write a brief introduction about yourself or your organization. Highlight your expertise, passions, or the purpose of your website.]
 
 ## Blog
+[Title of the blog](../../2023/06/01/Blog-post.html)
 
 [If you have a blog section on your site, mention it here. Describe the topics you cover and invite visitors to explore your blog posts.]
 
