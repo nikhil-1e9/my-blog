@@ -1,8 +1,8 @@
 # Site settings
-title: [AI Decoded]
-description: [Welcome to my blog. Here you will find tutorials and posts related to Machine Learning and Artificial Intelligence]
+title: AI Decoded
+description: Welcome to my blog. Here you will find tutorials and posts related to Machine Learning and Artificial Intelligence
 baseurl: "" # If your site is not hosted on a subpath, leave it empty
-url: [https://nikhil-1e9.github.io/my-blog]
+url: https://nikhil-1e9.github.io/my-blog
 
 # Build settings
 theme: minima
@@ -31,5 +31,5 @@ plugins:
   - jekyll-paginate
 
 # GitHub Pages deployment
-remote_theme: [nikhil-1e9/my-blog]
+remote_theme: nikhil-1e9/my-blog
 
